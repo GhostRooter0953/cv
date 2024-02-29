@@ -154,7 +154,7 @@ Zabbix)
 ```
 
 ## Ключевые навыки:
-```text
+```yaml
 Английский язык — B2, Наставничество
 TCP/IP, Nginx, CCNA, HTTP
 Linux, Bash, Ansible, Git, Docker, Docker Compose, DroneCI, GitLab, Jenkins, Kubernetes
