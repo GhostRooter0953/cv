@@ -29,7 +29,7 @@
 ## Киберпротект
 _с Октябрь 2023 — по настоящее время (5 месяцев) г. Москва, `cyberprotect.ru`_
 
-**Программный инженер (DevOps/Observability Engineer)**
+### **Программный инженер (DevOps/Observability Engineer)**
 
 Работа с инструментами:
 ### Jenkins:
